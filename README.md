@@ -88,5 +88,5 @@
 <h3 align="left">Support me 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> :
 </h3>
-<p><a href="https://www.buymeacoffee.com/chamathka_dp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chamathka_dp" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/chamathkadp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chamathka_dp" /></a></p><br><br>
 
