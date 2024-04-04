@@ -54,7 +54,7 @@
 <h2 align="left">Connect with me 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> :
 </h2>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/@chamathka_dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chamathka_dp" height="30" width="40" /></a>
 <a href="https://fb.com/chamathka.perera.731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamathka.perera." height="30" width="40" /></a>
 <a href="https://instagram.com/chamathka_d_perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamathka_d_perera" height="30" width="40" /></a>
