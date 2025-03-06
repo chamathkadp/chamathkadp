@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **chamathkadperera2005@gmail.com**
+- 📫 How to reach me **chamathka.hd@gmail.com**
 
 -  ⚡ Fun fact **Call me as Dew..**
 
